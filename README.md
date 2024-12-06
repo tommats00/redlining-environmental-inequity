@@ -2,7 +2,7 @@
 
 ![Image](https://s3.amazonaws.com/holc/tiles/CA/LosAngeles1/1939/holc-scan.jpg)
 
-Image Credit:[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/data/CA-LosAngeles)
+Image Credit:Mapping Inequalityhttps://dsl.richmond.edu/panorama/redlining/data/CA-LosAngeles
 ### Purpose
 This repository aims to investigate the imbalance of bird observations in historically redlined neighborhoods in LA county. In the 1930's the Home Owners' Loan Corporation (HOLC) rated neighborhood blocks on their perceived safety. The ranking system A (green), B (blue), C (yellow), and D (red) was used to stop access for loans in neighborhoods of lower ratings, known as redlining. This practice has negatively impacted not only the community economy, but also its health. Redlined neighborhoods are considerably hotter due to having less local greenery. 
 
