@@ -8,14 +8,33 @@ The HOLC's rating system has had a ripple effect on these communities over the d
 
 ### Highlights of Analysis
 - Load in geospatial data using `sf`
-- Filter data to LA County
+- `Filter` data to LA County
 - Create map of redlined neighborhoods
-- Join spatial data for comparitive analysis
-- Summarize low income, particulate matter, and low life expectancy by HOLC grade
+- `Join` spatial data for comparitive analysis
+- `Summarize` low income, particulate matter, and low life expectancy by HOLC grade
 - Use `st_intersects` for bird observations across HOLC grades
    
 ### Dataset Descriptions
+#### EJ Screen Data
+The United States Environmental Protection Agency's EJScreen: Environmental Justice Screening and Mapping Tool data will be used to provide data for the US Census tract and block group levels. This data can be downloaded directly from the [EPA Website](https://www.epa.gov/ejscreen/download-ejscreen-data). Limitations of this dataset can also be found on [EPA's site](https://www.epa.gov/ejscreen/limitations-and-caveats-using-ejscreen).
 
-### Authors (for collaborative work)
+#### HOLC Redlining
+Home Owner's Loan Corporation data can be found [here](https://dsl.richmond.edu/panorama/redlining/data). This data is from the [Digital Scholarship Lab](https://dsl.richmond.edu/) at the University of Richmond and is a part of their [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58). 
+
+#### Biodiversity Observations
+Data on bird observations can be found from the [Global Biodiversity Information Facility](https://www.gbif.org/). They are the largest compiler of biodiversity observations in the world. Our data is looking at bird observations from 2021 to present. 
+
+### Authors 
+A special thanks to [Ruth Oliver](https://github.com/ryoliver) for guidance in [EDS 223](https://eds-223-geospatial.github.io/) in the completion of this work. 
 
 ### References & Acknowledgements
+Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 1-9.
+
+GBIF.org (13 October 2024) [GBIF Occurence Download](https://www.gbif.org/)
+
+Nelson, R. K., Winling, L, et al. (2023). Mapping Inequality: Redlining in New Deal
+America. (Digital Scholarship Lab)[https://dsl.richmond.edu/panorama/redlining].
+
+United States Environmental Protection Agency. 2024 version. [EJScreen](www.epa.gov/ejscreen).
+Retrieved: 10/4/24 from www.epa.gov/ejscreen
+
