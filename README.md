@@ -1,4 +1,5 @@
 # Investigating redlined neighborhoods in LA County
+
 ![Image](https://s3.amazonaws.com/holc/tiles/CA/LosAngeles1/1939/holc-scan.jpg)
 
 Image Credit:[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/data/CA-LosAngeles)
