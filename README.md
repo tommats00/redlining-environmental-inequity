@@ -38,9 +38,6 @@ Home Owner's Loan Corporation data can be found [here](https://dsl.richmond.edu/
 #### Biodiversity Observations
 Data on bird observations can be found from the [Global Biodiversity Information Facility](https://www.gbif.org/). They are the largest compiler of biodiversity observations in the world. Our data is looking at bird observations from 2021 to present. 
 
-### Authors 
-A special thanks to [Ruth Oliver](https://github.com/ryoliver) for guidance in [EDS 223](https://eds-223-geospatial.github.io/) in the completion of this work. 
-
 ### References & Acknowledgements
 Ellis-Soto, D., Chapman, M., & Locke, D. H. (2023). Historical redlining is associated with increasing geographical disparities in bird biodiversity sampling in the United States. Nature Human Behaviour, 1-9.
 
@@ -52,3 +49,4 @@ America. (Digital Scholarship Lab)[https://dsl.richmond.edu/panorama/redlining].
 United States Environmental Protection Agency. 2024 version. [EJScreen](www.epa.gov/ejscreen).
 Retrieved: 10/4/24 from www.epa.gov/ejscreen
 
+A special thanks to [Ruth Oliver](https://github.com/ryoliver) for guidance in [EDS 223](https://eds-223-geospatial.github.io/) in the completion of this work. 
