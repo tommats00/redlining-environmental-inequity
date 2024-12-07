@@ -8,6 +8,17 @@ This repository aims to investigate the imbalance of bird observations in histor
 
 The HOLC's rating system has had a ripple effect on these communities over the decades since it started. Recently, studies have shown that redlined neighborhoods have fewer biodiversity observations. Citizen science is becoming more influential in modern day data collection, however, Ellis-Soto et al. (2023) discovered that redlined neighborhoods are the most undersampled areas across 195 cities. As policy is implemented from this data, it is important to understand the gap from this sampling bias. 
 
+### Structure
+```{r}
+redlining-environmental-inequity  
+│   .gitignore
+|   README.md
+|   redlining-environmental-inequity.Rproj 
+|   redlining.qmd
+│
+└──
+```
+
 ### Highlights of Analysis
 - Load in geospatial data using `sf`
 - `Filter` data to LA County
