@@ -15,8 +15,9 @@ redlining-environmental-inequity
 |   README.md
 |   redlining-environmental-inequity.Rproj 
 |   redlining.qmd
-│
-└──
+│   redlining.html
+|
+└── redlining_files
 ```
 
 ### Highlights of Analysis
